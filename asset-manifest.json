@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quicksellassignment/static/css/main.acb2d68b.css",
+    "main.js": "/quicksellassignment/static/js/main.4341959d.js",
+    "static/js/787.cda612ba.chunk.js": "/quicksellassignment/static/js/787.cda612ba.chunk.js",
+    "index.html": "/quicksellassignment/index.html",
+    "main.acb2d68b.css.map": "/quicksellassignment/static/css/main.acb2d68b.css.map",
+    "main.4341959d.js.map": "/quicksellassignment/static/js/main.4341959d.js.map",
+    "787.cda612ba.chunk.js.map": "/quicksellassignment/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb2d68b.css",
+    "static/js/main.4341959d.js"
+  ]
+}
