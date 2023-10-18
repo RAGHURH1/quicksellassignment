@@ -1,0 +1,13 @@
+.profileicon .profilephoto{
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+    background-color: brown;
+
+}
+
+.profileicon .profilephoto img{
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+}
